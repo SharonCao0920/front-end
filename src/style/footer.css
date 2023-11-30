@@ -1,0 +1,17 @@
+.footer {
+    width: 100%; /* Make the footer full width */
+    position: fixed; /* Position it at the bottom */
+    bottom: 0; /* Align to the bottom */
+    left: 0; /* Align to the left */
+    background-color: #22468C; /* Your desired background color */
+    color: white; /* Text color */
+    text-align: center; /* Center the text */
+    padding: 10px 0; /* Padding for top and bottom */
+    box-sizing: border-box; /* Include padding and border in the width */
+    align-content: center;
+    display: flex; /* Use flexbox to center the content */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 50px; /* Adjust the height as needed */
+  }
+  

@@ -1,0 +1,39 @@
+/* Employer Section Styles */
+.employer {
+    background-color: #f8f8f8; /* Light grey background */
+    padding: 20px; /* Padding around the content */
+    border-radius: 8px; /* Rounded corners */
+    margin-bottom: 20px; /* Space below the section */
+  }
+  
+  .employer h2 {
+    color: #333; /* Dark grey text for the heading */
+    margin-bottom: 10px; /* Space below the heading */
+  }
+  
+  .employer ul {
+    list-style: none; /* Remove default list styling */
+    padding-left: 0; /* Remove default padding */
+  }
+  
+  .employer li {
+    padding: 5px 0; /* Space above and below each list item */
+  }
+  
+  .employer li::before {
+    content: '• '; /* Custom bullet point */
+    color: #333; /* Bullet point color */
+    padding-right: 5px; /* Space between bullet point and text */
+  }
+  
+  .employer li a {
+    color: #0066cc; /* Link color */
+    text-decoration: none; /* No underline on links */
+    transition: color 0.3s; /* Smooth color transition for hover effect */
+  }
+  
+  .employer li a:hover {
+    color: #ff6600; /* Link hover color */
+    text-decoration: underline; /* Underline on hover */
+  }
+  

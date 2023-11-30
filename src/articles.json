@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Form W-2, Wage and Tax Statement",
+        "url": "https://www.irs.gov/forms-pubs/about-form-w-2",
+        "content": "This form is issued by employers to employees and the IRS. It reports an employee's annual wages and the amount of taxes withheld from their paycheck."
+    },
+    {
+        "title": "Form W-4, Employee's Withholding Certificate",
+        "url": "https://www.irs.gov/forms-pubs/about-form-w-4",
+        "content": "This form is completed by employees to let employers know how much tax to withhold from their paycheck. Employees fill out this form when they start a new job or if they need to make changes to their current withholding."
+    },
+    {
+        "title": "Form 940, Employer's Annual Federal Unemployment (FUTA) Tax Return",
+        "url": "https://www.irs.gov/forms-pubs/about-form-940",
+        "content": "This form is used by employers to report the federal unemployment tax. FUTA tax, combined with state unemployment systems, provides funds for paying unemployment compensation to workers who have lost their jobs."
+    },
+    {
+        "title": "Form 941, Employer's Quarterly Federal Tax Return",
+        "url": "https://www.irs.gov/forms-pubs/about-form-941",
+        "content": "Employers use this form to report income taxes, social security tax, or Medicare tax withheld from employee's paychecks. It also reports the employer's portion of social security or Medicare tax."
+    },
+    {
+        "title": "Form 944, Employer's Annual Federal Tax Return",
+        "url": "https://www.irs.gov/forms-pubs/about-form-944",
+        "content": "This form is used by small employers (those whose annual liability for social security, Medicare, and withheld federal income taxes is $1,000 or less) to report these taxes."
+    },
+    {
+        "title": "Form 1099-MISC, Miscellaneous Income",
+        "url": "https://www.irs.gov/forms-pubs/about-form-1099-misc",
+        "content": "Although not strictly a payroll form, it's used to report payments made to independent contractors (who are not employees) for services performed for a business."
+    },
+    {
+        "title": "Form 1095-C, Employer-Provided Health Insurance Offer and Coverage",
+        "url": "https://www.irs.gov/forms-pubs/about-form-1095-c",
+        "content": "Employers with 50 or more full-time employees use this form to report the information about the health insurance coverage offered to employees."
+    },
+    {
+        "title": "Form W-3, Transmittal of Wage and Tax Statements",
+        "url": "https://www.irs.gov/forms-pubs/about-form-w-3",
+        "content": "This form is a summary page of all W-2 forms issued by an employer. It's sent to the Social Security Administration along with a copy of each W-2 form."
+    }
+]
